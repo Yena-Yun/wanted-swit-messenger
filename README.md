@@ -1,24 +1,23 @@
 
-## 1. 프로젝트 소개
+## 🧨 프로젝트 소개
 
-- 주제 : 메신저
-
-
-## 2. 배포 링크
-
-https://luckyzzang-swit-messenger.netlify.app/
+- 주제: SCSS를 활용한 메신저 페이지 구현
 
 
-## 3. 구현 기능
+## ✈ 배포 링크
 
-⚜ 본인이 구현한 기능
-* 채팅창 페이지 UI
-* 채팅창 댓글 작성 기능
-* data.ts에 있는 기존 데이터 렌더링
-* 입력 시 전송버튼 활성화 (scss의 props 작업)
-* 날짜 util 함수 (yyyy-mm-dd hh:MM:ss 형태로 출력)
+## https://luckyzzang-swit-messenger.netlify.app/
 
-⚜ 그 외
+
+## ✨ 구현한 기능
+
+1. **SCSS를 활용**하여 **채팅창 페이지의 UI** 구현
+2. 채팅창의 **댓글 작성 기능** 구현
+3.  **SCSS에서 props를 전달하는 공통 컴포넌트**를 작성하여, **입력 시 활성화되는 전송버튼** 구현
+4.  첫 로딩 때 **data.ts에 있는 기존 데이터를 렌더링**
+5. **메시지 작성 날짜를 yyyy-mm-dd hh:MM:ss 형태로 출력**하는 **util 함수(formatDate)** 생성
+ 
+⚜ 그 외 구현된 기능
 * 리덕스, 모달, 로그인 기능
 
 ## 4. 기술 스택
